@@ -7,14 +7,16 @@
     height: 40px;
 	display: flex;
     justify-content: center;
-    align-items: center
+    align-items: center;
 }
 .left{
-	    width: 50vw;
+	width: 50vw;
     color: blue;
+	cursor:pointer;
 }
 .right{
 	color:red;
+	cursor:pointer;
 }
 .container{
 	background-color: #80808036;
@@ -39,14 +41,16 @@
     border-radius: 10px;
 	color: white;
     line-height: 30px;
-    text-align: center
+    text-align: center;
+	cursor:pointer;
 }
 .two{
-	    height: 30px;
+	height: 30px;
     width: 80px;
     background-color: blue;
     border-radius: 10px;
     color: white;
     line-height: 30px;
-    text-align: center
+    text-align: center;
+	cursor:pointer;
 }
